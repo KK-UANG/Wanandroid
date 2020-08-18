@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">玩安卓</string>
+
+    <!--Home-->
+    <string name="home_main">首页</string>
+    <string name="home_square">广场</string>
+    <string name="home_public">公众号</string>
+    <string name="home_system">体系</string>
+    <string name="home_project">项目</string>
+
+    <!-- Nav Action -->
+    <string name="nav_my_collect">我的收藏</string>
+    <string name="my_share">我的分享</string>
+    <string name="nav_setting">系统设置</string>
+    <string name="nav_about_us">关于我们</string>
+    <string name="nav_logout">退出登录</string>
+    <string name="nav_night_mode">夜间模式</string>
+    <string name="nav_todo">TODO</string>
+    <string name="nav_my_score">我的积分</string>
+    <string name="nav_id">ID:</string>
+    <string name="nav_grade">等级:</string>
+    <string name="nav_rank">排名:</string>
+    <string name="action_search">搜索</string>
+</resources>
